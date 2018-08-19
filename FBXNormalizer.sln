@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FBXNormalizer", "FBXNormalizer\FBXNormalizer.vcxproj", "{351B9D89-59C7-45F6-B3E2-358280393DE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		MD|x64 = MD|x64
+		MD|x86 = MD|x86
+		MT|x64 = MT|x64
+		MT|x86 = MT|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{351B9D89-59C7-45F6-B3E2-358280393DE7}.MD|x64.ActiveCfg = MD|x64
+		{351B9D89-59C7-45F6-B3E2-358280393DE7}.MD|x64.Build.0 = MD|x64
+		{351B9D89-59C7-45F6-B3E2-358280393DE7}.MD|x86.ActiveCfg = MD|Win32
+		{351B9D89-59C7-45F6-B3E2-358280393DE7}.MD|x86.Build.0 = MD|Win32
+		{351B9D89-59C7-45F6-B3E2-358280393DE7}.MT|x64.ActiveCfg = Debug|x64
+		{351B9D89-59C7-45F6-B3E2-358280393DE7}.MT|x64.Build.0 = Debug|x64
+		{351B9D89-59C7-45F6-B3E2-358280393DE7}.MT|x86.ActiveCfg = Debug|Win32
+		{351B9D89-59C7-45F6-B3E2-358280393DE7}.MT|x86.Build.0 = Debug|Win32
+		{351B9D89-59C7-45F6-B3E2-358280393DE7}.Release|x64.ActiveCfg = Release|x64
+		{351B9D89-59C7-45F6-B3E2-358280393DE7}.Release|x64.Build.0 = Release|x64
+		{351B9D89-59C7-45F6-B3E2-358280393DE7}.Release|x86.ActiveCfg = Release|Win32
+		{351B9D89-59C7-45F6-B3E2-358280393DE7}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19A0A96C-3D87-485C-81F6-8E4C2C09062C}
+	EndGlobalSection
+EndGlobal
