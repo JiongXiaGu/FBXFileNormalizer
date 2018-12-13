@@ -1,6 +1,10 @@
 # FBXFileNormalizer
 
-手贱移动了一下SDK目录,忘了怎么配置了,我把之前编译成功的上传上来算了... ヽ(°◇° )ノ 
+手贱移动了一下SDK目录,忘了怎么配置了,不过还好之前编译的还能用,直接下载就好了... ヽ(°◇° )ノ 
+
+[FBXNormalizer.exe](https://github.com/JiongXiaGu/FBXFileNormalizer/blob/master/MD/FBXNormalizer.exe)
+[libfbxsdk.dll](https://github.com/JiongXiaGu/FBXFileNormalizer/blob/master/MD/libfbxsdk.dll)
+把他们两个放在需要正常化模型的目录运行,记得备份!!!
 
 将FBX文件内容命名标准化(就是去掉有些网站在模型上命名的修改,比如说某 MixXXX)
 
@@ -10,4 +14,4 @@
 
 配合 FBX SDK 使用: https://www.autodesk.com/developer-network/platform-technologies/fbx-sdk-2019-0
 环境配置 : http://help.autodesk.com/view/FBX/2019/ENU/?guid=FBX_Developer_Help_getting_started_installing_and_configuring_configuring_the_fbx_sdk_for_wind_html
-API : https://help.autodesk.com/view/FBX/2017/ENU/
+FBX API : https://help.autodesk.com/view/FBX/2017/ENU/
